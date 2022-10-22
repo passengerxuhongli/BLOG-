@@ -9,8 +9,11 @@ GPS轨迹|车辆路径拼接&还原&预测相关论文
 
 ![截屏2022-10-22 15 21 47](https://user-images.githubusercontent.com/28177991/197326239-95579697-d81c-4c4f-bf80-7f8f40b9be68.png)
 
+
+
+
 |   publication|location   | trajectory length  | avilability  | link  |
-|--           -|---        |-                  -|--           -|-    --|
+|--------------------------|--------------------|-—------------|----------------------------------------------------------|
 | NGSIM        |  highways US |  640 meters     |  yes         | https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm  |
 | Krajewski2018|  highways german |  420 meters |  yes         | https://www.highd-dataset.com/#  |
 | barmpounakis |  urban roads greece |  350 meters     |  yes         |https://open-traffic.epfl.ch/  |
